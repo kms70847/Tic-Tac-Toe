@@ -1,5 +1,3 @@
-# File: hello1.py
-
 from Tkinter import *
 from sprite import *
 
