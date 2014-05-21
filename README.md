@@ -7,4 +7,4 @@ Written in Python. Uses Tkinter.
 
 Sample usage:
 
-    test.py
+    main.py
