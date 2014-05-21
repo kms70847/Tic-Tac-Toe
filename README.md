@@ -2,3 +2,9 @@ Tic-Tac-Toe
 ===========
 
 A simple implementation of the classic game.
+
+Written in Python. Uses Tkinter.
+
+Sample usage:
+
+    test.py
